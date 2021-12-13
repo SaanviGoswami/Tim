@@ -1,0 +1,12 @@
+img{
+    width:200px;
+    margin-bottom:50px;
+    border-radius:50%;
+}
+
+#welcome{
+    height:800;
+    color:aqua;
+    background:linear-gradient(lightgreen 0%, darkgreen 100%);
+    z-index:9      
+}
